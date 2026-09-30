@@ -4,7 +4,7 @@ A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. It allo
 
 🌐 [**Live Demo**](YOUR_LIVE_LINK_HERE)
 
-![Tic Tac Toe Screenshot](https://github.com/sunny1901kumar-sys/Tic-Tac-Toe/raw/main/Screenshot1.png)
+![Tic Tac Toe Screenshot](https://github.com/sunny1901kumar-sys/Tic-Tac-Toe/raw/main/Screenshot.png)
 
 ## ✨ Features
 
