@@ -2,7 +2,7 @@
 
 A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. It allows two players to play against each other by taking turns as Player 1 (X) and Player 2 (O).
 
-🌐 [**Live Demo**](YOUR_LIVE_LINK_HERE)
+🌐 [**Live Demo**](https://sunny1901kumar-sys.github.io/Tic-Tac-Toe/)
 
 ![Tic Tac Toe Screenshot](https://github.com/sunny1901kumar-sys/Tic-Tac-Toe/raw/main/Screenshot.png)
 
